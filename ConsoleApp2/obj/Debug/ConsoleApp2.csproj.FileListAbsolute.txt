@@ -1,0 +1,6 @@
+C:\Users\jerry\OneDrive\桌面\Iterator\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\jerry\OneDrive\桌面\Iterator\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\jerry\OneDrive\桌面\Iterator\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\jerry\OneDrive\桌面\Iterator\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\jerry\OneDrive\桌面\Iterator\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\jerry\OneDrive\桌面\Iterator\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

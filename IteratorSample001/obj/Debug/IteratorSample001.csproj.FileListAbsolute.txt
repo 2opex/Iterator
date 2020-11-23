@@ -1,0 +1,7 @@
+C:\C#講義\CH8\IteratorSamples\IteratorSample001\bin\Debug\IteratorSample001.exe.config
+C:\C#講義\CH8\IteratorSamples\IteratorSample001\bin\Debug\IteratorSample001.exe
+C:\C#講義\CH8\IteratorSamples\IteratorSample001\bin\Debug\IteratorSample001.pdb
+C:\C#講義\CH8\IteratorSamples\IteratorSample001\obj\Debug\IteratorSample001.csprojAssemblyReference.cache
+C:\C#講義\CH8\IteratorSamples\IteratorSample001\obj\Debug\IteratorSample001.csproj.CoreCompileInputs.cache
+C:\C#講義\CH8\IteratorSamples\IteratorSample001\obj\Debug\IteratorSample001.exe
+C:\C#講義\CH8\IteratorSamples\IteratorSample001\obj\Debug\IteratorSample001.pdb
